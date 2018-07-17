@@ -15,14 +15,15 @@ This is a Python Dash face recognition web application designed to find people t
 
 ## Images
 ***<p align="center">The Cover of our Web page</p>***
-  ![image](figs/cover.jpg)<br>
+<img src="figs/cover.jpg" alt="drawing" width="800px"/>
+
   
 ***<p align="center">Similarity for Jack Ma</p>***
-  ![image](figs/m-simi.png)<br>
+<img src="figs/m-simi.png" alt="drawing" width="800px"/>
   
   
  ***<p align="center">Attributes for Jack Ma</p>***
-  ![image](figs/m-att.png)<br>
+<img src="figs/m-att.png" alt="drawing" width="800px"/>
   
 ## Installation guide
 
