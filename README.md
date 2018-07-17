@@ -1,4 +1,5 @@
-#Find Your Celebrity Match <hr>
+# Find Your Celebrity Match <br>
+
 + This is a modified version of the [team project](https://github.com/TZstatsADS/Spring2018-Project5-grp3)
 + App Name: **Facelook**
 + Presentation Slide and Vedio Introduction: [https://prezi.com/qdc1ljheqp93/](https://prezi.com/qdc1ljheqp93/)
