@@ -1,8 +1,8 @@
 # Find Your Celebrity Match <br>
 
 + This is a modified version of the [team project](https://github.com/TZstatsADS/Spring2018-Project5-grp3)
-+ App Name: **Facelook**
-+ Presentation Slide and Vedio Introduction: [https://prezi.com/qdc1ljheqp93/](https://prezi.com/qdc1ljheqp93/)
++ App name: **Facelook**
++ Presentation slide and vedio introduction: [https://prezi.com/qdc1ljheqp93/](https://prezi.com/qdc1ljheqp93/)
 + Team members
    +  Guo, Du <dg2999@columbia.edu>
    +  Guo, Tao <tg2620@columbia.edu>
