@@ -54,7 +54,7 @@ This is a Python Dash face recognition web application designed to find people t
 - Guo, Tao: Training part of the image for feature extracture. Building and training the Logistic Model for gender, attractiveness and face shape. Summary and Presentation with Yiran Jiang.
 - Jiang, Yiran: Leader of the project. Collecting data. Improving and Running facenet CNN model for extracting features. Designing algorithm for cropping images. Running and evaluating SVM model on sex classification. Dash code and functions design. Dash Interactive and Logic design. Presentation.
 - Liu, Fangbing: Designed python dash page, helped with processing data and organizing code.
-- Wang, Jingyi:  Modified `README.md`; Designed camera connection, most part of the finding similar celebrity photo section, and python dash layout, and part of the image feature extracture process.
+- Wang, Jingyi:  Modified `README.md`; Build the web page which adds photos from local files, url adress, as well as  camera connected to a computer,  and  returns  a collection of similar faces, along with the cosine similarity level; Colloberated to design the dash layout and helped with part of the image feature extracture process.
 
 <br>
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
